@@ -1,0 +1,83 @@
+body {
+    background-color: #d6b762;
+    padding: 15px;
+}
+
+#nome {
+    font-family: serif;
+    text-align: center;
+}
+
+#foto, #selfie1 {
+    float: left;
+    padding: 5px;
+    background-color: goldenrod;
+}
+
+#perfil {
+    font-family: monospace;
+    padding: 4%;
+    padding-bottom: 125px;
+    margin-left: 180px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+    background-color: goldenrod;
+}
+
+.menu {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#descricao {
+    text-align: left;
+}
+
+strong {
+    font-style: italic;
+    color: red;
+}
+
+ul li:nth-of-type(odd) {
+    background-color: goldenrod;
+}
+
+li {
+    width: 330px;
+}
+
+.js {
+    font-size: 16px;
+}
+
+.jv {
+    font-size: 20px;
+}
+
+.html {
+    font-size: 24px;
+}
+
+.prompt {
+    font-size: 28px;
+}
+
+.logica {
+    font-size: 32px;
+}
+
+.redes {
+    font-size: 36px;
+}
+
+.linux {
+    font-size: 40px;
+}
+
+.hack {
+    font-size: 44px;
+}
+
+.outros {
+    font-size: 13px;
+}
