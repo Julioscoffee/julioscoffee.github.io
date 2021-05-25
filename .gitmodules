@@ -1,0 +1,3 @@
+[submodule "sd-013-a-project-lessons-learned"]
+	path = sd-013-a-project-lessons-learned
+	url = git@github.com:tryber/sd-013-a-project-lessons-learned.git
